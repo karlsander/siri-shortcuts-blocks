@@ -2,7 +2,7 @@ A modular (aka messily interconnected) set of blocks for building powerful and e
 
 ## Functions
 
-Functions are shortcuts that are meant to be used inside Shortcuts with the `Run Shortcuts` action. Their name always starts with / and ends with a version number. The version number is only increased for breaking changes (so that links in other workflows don't break). Versions 0 may include breaking changes.
+Functions are shortcuts that are meant to be used inside Shortcuts with the `Run Shortcuts` action. Their name always starts with : and ends with a version number. The version number is only increased for breaking changes (so that links in other workflows don't break). Versions 0 may include breaking changes.
 
 ## Settings
 
